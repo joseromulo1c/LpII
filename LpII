@@ -1,0 +1,17 @@
+package Principal;
+
+import javax.swing.JFrame;
+
+public class Programa01 {
+  public static void main(String[] args){ 
+JFrame f = new JFrame();
+
+f.setSize(300, 350);
+
+f.setTitle("Sistema IFBA");
+
+f.setVisible(true);
+
+  } 
+}
+
